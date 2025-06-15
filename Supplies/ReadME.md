@@ -2,6 +2,8 @@
 1. https://www.reddit.com/r/ArmaReforger/comments/1jw4fr3/understanding_how_supplies_grant_xp_in_13/
 2. https://discord.com/channels/105462288051380224/1356309674001043586/1356309674001043586
 3. https://discord.com/channels/105462288051380224/1358054264504717322
+4. https://reforger.armaplatform.com/news/boot-camp-supplies-and-logistics
+5. 
 
 
 # Логика работы
