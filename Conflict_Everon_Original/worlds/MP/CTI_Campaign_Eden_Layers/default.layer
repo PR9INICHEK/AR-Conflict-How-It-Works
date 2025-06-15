@@ -3766,7 +3766,6 @@ $grp GenericEntity : "{18B92018CF634D22}Prefabs/Compositions/Slotted/SlotFlatSma
  }
 }
 GenericEntity : "{1A7FB3493A1B029F}Prefabs/Compositions/Locations/Eden/Base_LevieMilitary_FIA_01.et" {
- coords 7505.482 165.761 4283.153
  {
   GenericEntity {
    ID "5E6ACA2F4A7016D5"
@@ -3890,7 +3889,6 @@ GenericEntity : "{1CA1A82176D652AD}Prefabs/Compositions/Locations/Eden/SupplyCac
  coords 5766.788 221.968 7035.573
 }
 GenericEntity : "{1CF4014D7086BE9F}Prefabs/Compositions/Locations/Eden/Base_Airport_FIA_01.et" {
- coords 4900.952 28.595 11787.412
  {
   GenericEntity {
    ID "5E6ACA2CDC303E03"
@@ -4067,7 +4065,6 @@ $grp GenericEntity : "{22D2EFA80AC9DBD0}Prefabs/Compositions/Slotted/SlotFlatSma
  }
 }
 GenericEntity : "{2390B74D062A2D13}Prefabs/Compositions/Locations/Eden/Base_ChotainMilitary_FIA_01.et" {
- coords 7447.122 7.894 6704.909
  {
   GenericEntity {
    ID "5E6ACA2FA4C6BE5C"
@@ -4954,7 +4951,6 @@ $grp GenericEntity : "{343F8773B9C33154}Prefabs/Compositions/Misc/SubComposition
  }
 }
 MusicManager : "{359452CCDBDD03F5}Prefabs/Sounds/Music/MusicManager_Campaign.et" {
- coords 0 0 0
 }
 $grp GenericEntity : "{3828F18C8638E553}Prefabs/Props/Commercial/Posters/PosterSingle_01_Eden.et" {
  {
@@ -6241,7 +6237,6 @@ GenericEntity : "{58CF761823C96210}Prefabs/Compositions/Locations/Eden/SupplyCac
  coords 4927.979 36.042 9092.888
 }
 SCR_LoadoutManager : "{58FBD035E53D95C1}Prefabs/MP/Campaign/CampaignLoadoutManager.et" {
- coords 0 0 0
 }
 GenericEntity : "{59DE9F68F4D2A490}Prefabs/Compositions/Locations/Eden/SupplyCache_Laruns_FIA_01.et" {
  coords 7558.335 82.526 5540.854
@@ -11743,7 +11738,6 @@ GenericEntity : "{A887806F6DA7E824}Prefabs/Compositions/Misc/SubCompositions/Bui
  angleY 114
 }
 GenericEntity : "{A9F3C4994839F7A4}Prefabs/Compositions/Locations/Eden/Base_StPierreHarbour_FIA_01.et" {
- coords 9925.094 2.389 1525.324
  {
   GenericEntity {
    ID "5E6ACA2FB3B7B67E"
